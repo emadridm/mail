@@ -1,0 +1,23 @@
+{
+  "name": "@mate/mail",
+  "version": "1.0.0",
+  "description": "An email cliente for mate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emadridm/mail.git"
+  },
+  "keywords": [
+    "email",
+    "mate"
+  ],
+  "author": "Enrique Madrid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emadridm/mail/issues"
+  },
+  "homepage": "https://github.com/emadridm/mail#readme"
+}
